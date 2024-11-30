@@ -1,12 +1,13 @@
 # 🎧 Spotify Clone 🎵 || **work in progress**
 
-![Uploading image.png…]()
 
+---![Uploading Screenshot 2024-11-30 095952.png…]()
+![Uploading Screenshot 2024-11-30 095952.png…]()
 
 ### 🚀 About the Project
 A **modern Spotify clone** that brings the music streaming experience to life! 🎶 Currently, this project is **under development** 🛠️, with exciting features being added every day. Stay tuned! 🔥
 
----
+
 
 ## ✨ Features (In Progress)
 - 🔒 **User Authentication**: Secure login with Google OAuth and Supabase integration.
