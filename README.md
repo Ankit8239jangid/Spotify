@@ -1,8 +1,8 @@
 # 🎧 Spotify Clone 🎵 || **work in progress**
 
 
----![Uploading Screenshot 2024-11-30 095952.png…]()
-![Uploading Screenshot 2024-11-30 095952.png…]()
+![Uploading image.png…]()
+
 
 ### 🚀 About the Project
 A **modern Spotify clone** that brings the music streaming experience to life! 🎶 Currently, this project is **under development** 🛠️, with exciting features being added every day. Stay tuned! 🔥
